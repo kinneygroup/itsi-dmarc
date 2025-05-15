@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for DMARC from Kinney Group is specifically designed to monitor the health and enforcement of DMARC policies across email domains. It leverages Splunk ITSI to provide in-depth analysis and visualization of DMARC reports, ensuring the integrity and security of email communications. This content pack is an essential tool for IT professionals looking to enhance email security and compliance.
+The ITSI Content Pack for DMARC from Presidio Splunk Solutions is specifically designed to monitor the health and enforcement of DMARC policies across email domains. It leverages Splunk ITSI to provide in-depth analysis and visualization of DMARC reports, ensuring the integrity and security of email communications. This content pack is an essential tool for IT professionals looking to enhance email security and compliance.
 
 * Comprehensive DMARC Monitoring: Offers detailed insights into DMARC policy enforcement, domain spoofing attempts, and email authentication mechanisms, enabling optimized email security.
 * Critical Email Domain Tracking: Monitors the real-time operational status of email domains, helping IT professionals swiftly identify and address potential issues.
@@ -7,14 +7,14 @@ The ITSI Content Pack for DMARC from Kinney Group is specifically designed to mo
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Details
 The ITSI Content Pack for DMARC contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive view of DMARC policy enforcement and email authentication mechanisms.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ### Services
 DMARC monitoring encompasses several specialized services, each targeting specific aspects of email security and policy enforcement:
@@ -69,26 +69,27 @@ Some services form a hierarchy, such as Authentication Mechanisms depending on S
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Version History
 
 | Version | Date  | Description                |
 |---------|-------|----------------------------|
 | 0.0.1   | 6/6/24 | Initial Preview Release    |
+| 1.0.0   | 5/15/25 | Documentation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
